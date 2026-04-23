@@ -1,0 +1,31 @@
+{
+  "qq_number": "819945857",
+  "group_number": "1094245715",
+  "updated_at": "2026-04-23T15:52:38.883893",
+  "skins": [
+    {
+      "name": "LianYiの天官赐福",
+      "file": "LianYiの天官赐福.bdi",
+      "thumb": "LianYiの天官赐福.bdi_py_26_light_thumb.png",
+      "full": "LianYiの天官赐福.bdi_py_26_light.png"
+    },
+    {
+      "name": "LianYiの将进酒",
+      "file": "LianYiの将进酒.bdi",
+      "thumb": "LianYiの将进酒.bdi_py_26_light_thumb.png",
+      "full": "LianYiの将进酒.bdi_py_26_light.png"
+    },
+    {
+      "name": "LianYiの将进酒",
+      "file": "LianYiの将进酒.bds",
+      "thumb": "LianYiの将进酒.bds_py_26_light_thumb.png",
+      "full": "LianYiの将进酒.bds_py_26_light.png"
+    },
+    {
+      "name": "LianYiの天官赐福",
+      "file": "LianYiの天官赐福.bds",
+      "thumb": "LianYiの天官赐福.bds_py_26_light_thumb.png",
+      "full": "LianYiの天官赐福.bds_py_26_light.png"
+    }
+  ]
+}
