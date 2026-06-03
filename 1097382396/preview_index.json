@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "1097382396",
-  "updated_at": "2026-06-03T06:55:21+00:00",
+  "updated_at": "2026-06-03T07:09:08+00:00",
   "skins": [
     {
       "name": "LianYiの天官赐福(脆脆音)",
@@ -56,6 +56,12 @@
       "file": "LianYiの时光代理人-彩底.bdi",
       "thumb": "LianYiの时光代理人-彩底.bdi_py_26_light_thumb.png",
       "full": "LianYiの时光代理人-彩底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの仙逆-融底",
+      "file": "LianYiの仙逆-融底.bdi",
+      "thumb": "LianYiの仙逆-融底.bdi_py_26_light_thumb.png",
+      "full": "LianYiの仙逆-融底.bdi_py_26_light_thumb.png"
     }
   ]
 }
