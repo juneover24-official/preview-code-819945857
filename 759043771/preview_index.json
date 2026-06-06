@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "759043771",
-  "updated_at": "2026-06-04T07:14:57+00:00",
+  "updated_at": "2026-06-06T14:46:53+00:00",
   "skins": [
     {
       "name": "LianYiの将杀",
@@ -182,6 +182,12 @@
       "file": "LianYiの骨与花瓣-融底.bdi",
       "thumb": "LianYiの骨与花瓣-融底.bdi_py_26_light_thumb.png",
       "full": "LianYiの骨与花瓣-融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの骨与花瓣-彩底",
+      "file": "LianYiの骨与花瓣-彩底.bds",
+      "thumb": "LianYiの骨与花瓣-彩底.bds_py_26_light_thumb.png",
+      "full": "LianYiの骨与花瓣-彩底.bds_py_26_light_thumb.png"
     }
   ]
 }
