@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "1104989299",
-  "updated_at": "2026-06-02T12:51:11+00:00",
+  "updated_at": "2026-06-13T15:06:33+00:00",
   "skins": [
     {
       "name": "LianYiの夏目友人帐-彩底",
@@ -20,6 +20,12 @@
       "file": "LianYiの现在的多闻君是哪一面-融底.bdi",
       "thumb": "LianYiの现在的多闻君是哪一面-融底.bdi_py_26_light_thumb.png",
       "full": "LianYiの现在的多闻君是哪一面-融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの雪顶啵啵-融底",
+      "file": "LianYiの雪顶啵啵-融底.bdi",
+      "thumb": "LianYiの雪顶啵啵-融底.bdi_py_26_light_thumb.png",
+      "full": "LianYiの雪顶啵啵-融底.bdi_py_26_light_thumb.png"
     }
   ]
 }
