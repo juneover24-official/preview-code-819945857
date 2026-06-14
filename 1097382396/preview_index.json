@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "1097382396",
-  "updated_at": "2026-06-03T08:54:03+00:00",
+  "updated_at": "2026-06-14T09:00:07+00:00",
   "skins": [
     {
       "name": "LianYiの天官赐福(脆脆音)",
@@ -80,6 +80,12 @@
       "file": "LianYiの仙逆-融底.bds",
       "thumb": "LianYiの仙逆-融底.bds_py_26_light_thumb.png",
       "full": "LianYiの仙逆-融底.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiのAWM绝地求生-融底②",
+      "file": "LianYiのAWM绝地求生-融底②.bdi",
+      "thumb": "LianYiのAWM绝地求生-融底②.bdi_py_26_light_thumb.png",
+      "full": "LianYiのAWM绝地求生-融底②.bdi_py_26_light_thumb.png"
     }
   ]
 }
