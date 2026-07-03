@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "1097382396",
-  "updated_at": "2026-07-03T10:03:32+00:00",
+  "updated_at": "2026-07-03T10:05:32+00:00",
   "skins": [
     {
       "name": "LianYiの天官赐福(脆脆音)",
@@ -104,6 +104,12 @@
       "file": "LianYiの不小心救了江湖公敌-融底.bdi",
       "thumb": "LianYiの不小心救了江湖公敌-融底.bdi_py_26_light_thumb.png",
       "full": "LianYiの不小心救了江湖公敌-融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの不小心救了江湖公敌-融底",
+      "file": "LianYiの不小心救了江湖公敌-融底.bds",
+      "thumb": "LianYiの不小心救了江湖公敌-融底.bds_py_26_light_thumb.png",
+      "full": "LianYiの不小心救了江湖公敌-融底.bds_py_26_light_thumb.png"
     }
   ]
 }
