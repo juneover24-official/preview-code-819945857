@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "759043771",
-  "updated_at": "2026-07-23T04:03:58+00:00",
+  "updated_at": "2026-07-23T04:04:40+00:00",
   "skins": [
     {
       "name": "LianYiの将杀",
@@ -212,6 +212,12 @@
       "file": "LianYiの浪漫启示录.bdi",
       "thumb": "LianYiの浪漫启示录.bdi_py_26_light_thumb.png",
       "full": "LianYiの浪漫启示录.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの浪漫启示录",
+      "file": "LianYiの浪漫启示录.bds",
+      "thumb": "LianYiの浪漫启示录.bds_py_26_light_thumb.png",
+      "full": "LianYiの浪漫启示录.bds_py_26_light_thumb.png"
     }
   ]
 }
