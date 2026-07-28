@@ -1,7 +1,7 @@
 {
   "qq_number": "819945857",
   "group_number": "759043771",
-  "updated_at": "2026-07-23T04:05:15+00:00",
+  "updated_at": "2026-07-28T15:46:16+00:00",
   "skins": [
     {
       "name": "LianYiの将杀",
@@ -218,6 +218,12 @@
       "file": "LianYiの浪漫启示录.bds",
       "thumb": "LianYiの浪漫启示录.bds_py_26_light_thumb.png",
       "full": "LianYiの浪漫启示录.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "LianYiの圣母怜子图",
+      "file": "LianYiの圣母怜子图.bdi",
+      "thumb": "LianYiの圣母怜子图.bdi_py_26_light_thumb.png",
+      "full": "LianYiの圣母怜子图.bdi_py_26_light_thumb.png"
     }
   ]
 }
